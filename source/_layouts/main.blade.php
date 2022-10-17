@@ -15,6 +15,9 @@
 
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 		<style type="text/css">
+			body {
+				min-width: 475px;
+			}
 			footer {
 				align-items: flex-start;
 			}
