@@ -10,6 +10,9 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Domine&family=Fraunces&family=Newsreader&family=Petrona&display=swap" rel="stylesheet">
 		<script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
+
+		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5df86fdbb84bf65c1e446cc52/2c2a3942ba261a05b465fe036.js");</script>
+
 	</head>
 	<body>
 		<header>
