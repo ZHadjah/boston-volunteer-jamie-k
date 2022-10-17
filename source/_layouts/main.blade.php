@@ -41,6 +41,20 @@
 			#mc_embed_signup .helper_text {
 				background-color: transparent;
 			}
+			#mc_embed_signup .mc-field-group {
+				width: 100%;
+			}
+			#mc_embed_signup #mc-embedded-subscribe-form div.mce_inline_error {
+				background-color: transparent;
+			}
+			#mc_embed_signup #mce-success-response {
+				color: #2b3990;
+				margin: 0;
+				width: 100%;
+				text-align: center;
+				padding: 0;
+				padding-bottom: 1.5em;
+			}
 
 			/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 			We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
