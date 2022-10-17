@@ -15,8 +15,12 @@
 
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 		<style type="text/css">
-			#MailChimpSignUp {
-				width: 50%;
+			footer {
+				align-items: flex-start;
+			}
+			#mc_embed_signup form {
+				margin: 0;
+				margin-bottom: 20px;
 			}
 			#mc_embed_signup{background:transparent; clear:left; font:14px Helvetica,Arial,sans-serif; }
 			#mc_embed_signup .foot {
