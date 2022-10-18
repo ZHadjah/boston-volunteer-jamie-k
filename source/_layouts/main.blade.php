@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Domine&family=Fraunces&family=Newsreader&family=Petrona&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 		<script defer src="{{ mix('js/main.js', 'assets/build') }}"></script>
 
 		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5df86fdbb84bf65c1e446cc52/2c2a3942ba261a05b465fe036.js");</script>
@@ -100,6 +101,9 @@
 					<p><em>Big enough to deliver, small enough to care.</em></p>
 					<p><a href="mailto:josh@bostonvolunteer.org">Contact Us</a></p>
 				</div>
+				<div class="footer-social">
+				<a href="https://www.facebook.com/BostonVolunteers" class="fa fa-facebook"></a>
+				<a href="https://instagram.com/bostonvolunteers/" class="fa fa-instagram"></a>
 			</address>
 			<address class="footer-credit">
 				<div id="MailChimpSignUp">
