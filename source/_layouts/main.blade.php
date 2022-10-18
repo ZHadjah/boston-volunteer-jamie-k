@@ -74,6 +74,7 @@
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/organize-events">Organize an Event</a></li>
 					<li class="bv-nav-item bv-nav-callout"><a class="bv-nav-link bv-button bv-nav-button" href="https://www.meetup.com/BostonVolunteer/events/">Find an event</a></li>
 					<li class="bv-nav-item bv-nav-callout"><a class="bv-nav-link bv-button bv-nav-button" href="/get-involved">Get Involved</a></li>
+					<li class="bv-nav-item bv-nav-callout"><a class="bv-nav-link bv-button bv-nav-button" href="/get-involved/#sign-up">Sign Up for The Local</a></li>
 					<li class="bv-nav-item bv-nav-callout"><a class="bv-nav-link bv-button bv-nav-button" href="https://www.paypal.com/donate/?hosted_button_id=SDBG7NMRENJ7U" target="_blank">Donate</a></li>
 				</ul>
 			</nav>
