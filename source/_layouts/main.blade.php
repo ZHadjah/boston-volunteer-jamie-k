@@ -102,8 +102,8 @@
 					<p><a href="mailto:josh@bostonvolunteer.org">Contact Us</a></p>
 				</div>
 				<div class="footer-social">
-				<a href="https://www.facebook.com/BostonVolunteers" class="fa fa-facebook"></a>
-				<a href="https://instagram.com/bostonvolunteers/" class="fa fa-instagram"></a>
+				<a href="https://www.facebook.com/BostonVolunteers" target="_blank" class="fa fa-facebook"></a>
+				<a href="https://instagram.com/bostonvolunteers/" target="_blank" class="fa fa-instagram"></a>
 			</address>
 			<address class="footer-credit">
 				<div id="MailChimpSignUp">
