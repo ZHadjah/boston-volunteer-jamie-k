@@ -54,7 +54,8 @@
 		#sign-up #mc_embed_signup .indicates-required {
 			display: block;
 		}
-		#sign-up #mc_embed_signup .mc-field-group label {
+		#sign-up #mc_embed_signup .mc-field-group label,
+		#sign-up #mc_embed_signup p {
 			font-family: Domine,serif;
 			font-size: 18px;
 			line-height: 1.5;
@@ -79,7 +80,7 @@
 		<h2>The Local</h2>
  
 
-		<p>Subscribing and completing your profile is the best way to stay up to date with Boston Volunteer, our partners, events, and other ways to stay connected.</p>
+		<p>Subscribing and completing your profile is the best way to stay up to date with <em>Boston Volunteer</em>, our partners, events, and other ways to stay connected.</p>
 		<div id="mc_embed_signup">
 			<form action="https://bostonvolunteer.us9.list-manage.com/subscribe/post?u=5df86fdbb84bf65c1e446cc52&amp;id=b5cc9ded8e&amp;f_id=00480de1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll">

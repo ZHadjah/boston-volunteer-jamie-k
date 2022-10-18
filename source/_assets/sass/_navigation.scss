@@ -5,6 +5,7 @@ $nav-breakpoint: $md + 100;
 .bv-nav {
 	align-items: center;
 	display: flex;
+
 	font-family: $font-family-serif;
 	justify-content: space-between;
 	padding: 1em;
@@ -32,6 +33,8 @@ $nav-breakpoint: $md + 100;
 
 		@media screen and ( min-width: $nav-breakpoint ) {
 			display: flex;
+			justify-content: flex-end;
+			flex-wrap: wrap;
 		}
 	}
 
@@ -50,9 +53,11 @@ $nav-breakpoint: $md + 100;
 	@media screen and ( min-width: $nav-breakpoint + 150 ) {
 		font-size: 1em;
 	}
-
+	li.bv-nav-break {
+		width: 100%;
+	}
 	@media screen and (min-width: 1415px) {
-		br {
+		li.bv-nav-break {
 			display: none;
 		}
 	}
