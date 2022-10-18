@@ -59,6 +59,7 @@
 			font-family: Domine,serif;
 			font-size: 18px;
 			line-height: 1.5;
+			text-align: center;
 		}
 		#sign-up #mc_embed_signup .foot {
 			text-align: center;
@@ -77,14 +78,13 @@
 	</style>
 	<div id="sign-up">
 		<h3>Building a Better Massachusetts</h3>
-		<h2>The Local</h2>
+		<h2 style="text-style:italic">The Local</h2>
  
 
 		<p>Subscribing and completing your profile is the best way to stay up to date with <em>Boston Volunteer</em>, our partners, events, and other ways to stay connected.</p>
 		<div id="mc_embed_signup">
 			<form action="https://bostonvolunteer.us9.list-manage.com/subscribe/post?u=5df86fdbb84bf65c1e446cc52&amp;id=b5cc9ded8e&amp;f_id=00480de1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<div id="mc_embed_signup_scroll">
-				<p>Subscribe to our Upcoming Volunteer Opportunities newsletter</p>
 				<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 		<div class="mc-field-group">
 			<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
