@@ -59,7 +59,6 @@
 			font-family: Domine,serif;
 			font-size: 18px;
 			line-height: 1.5;
-			text-align: center;
 		}
 		#sign-up #mc_embed_signup .foot {
 			text-align: center;
