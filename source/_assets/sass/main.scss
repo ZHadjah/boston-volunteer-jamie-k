@@ -120,7 +120,7 @@ $logo-horizontal: 650px;
 		display: flex;
 		/*max-width: 565px;*/
 		flex-wrap: wrap;
-		width: 50%;
+		width: calc(100% - 330px);
 	}
 
 	@media screen and (min-width: 1085px) {
@@ -147,10 +147,12 @@ $logo-horizontal: 650px;
 
 .footer-social {
 	width: 100%;
-    text-align: left;
-    padding-left: 210px;
-    top: -1em;
-    position: relative;
+	@media screen and (min-width: 1085px) {
+		position: relative;
+		text-align: left;
+		top: -1em;
+		padding-left: 210px;
+	}
 
 	.fa {
 		text-align: center;
