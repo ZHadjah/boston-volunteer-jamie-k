@@ -39,10 +39,17 @@
 		<section class="bv-content-text">
 			<img class="bv-profile-image" src="/assets/images/josh_suit.jpg" alt="Josh Konoff">
 			<h2>Josh Konoff</h2>
-			<h3>Founder</h3>
-			<p>Josh Konoff is the entrepreneur and Executive Director of the Boston Volunteers, one of Boston’s most popular nonprofits. Josh also enjoys reading, coding, and being immersed in nature. His favorite books are War and Peace and Atomic Habits. </p>
-			<p>Josh is a data analyst who uses his natural talents for statistics and programming to help people live better, happier lives. Check out his GitHub for meaningful, measurable results.</p>
-			<p>Send Josh a message at <a href="mailto:josh@bostonvolunteer.org">josh@bostonvolunteer.org</a> or <a href="https://www.linkedin.com/in/joshuakonoff8/">connect with Josh on LinkedIn.</a></p>
+			<p>Josh Konoff is the entrepreneur and Executive Director of the Boston Volunteers, one of Boston’s fastest growing nonprofits.</p>
+			<p>Fun facts about the Boston Volunteers:</p>
+			<ul>
+				<li>Connecting and creating community since 2008</li>
+				<li>Partners with Amazon and local companies</li>
+				<li>Learn more: <a href="https://www.BostonVolunteer.org">www.BostonVolunteer.org</a></li>
+
+			<p>Josh met his wife, Autumn, while both studied at Boston University. His favorite hobbies are entrepreneurship, adventures in nature, and reading a good book in its original language.  His favorite books are <em>War and Peace</em> and <em>Atomic Habits</em>.</p>
+			<p>Josh also has a background in both machine learning and real estate. Josh still works in real estate, with more than 8 years of experience, where he almost exclusively helps long time relationships and their referrals.</p>
+			<p>Josh believes that one of the key ingredients to happiness is surprise. Surprise your spouse or sibling today!</p>
+			<p>Let’s meet for coffee: <a href="mailto:josh@bostonvolunteer.org">josh@bostonvolunteer.org</a> or <a href="https://www.linkedin.com/in/joshuakonoff8/">connect with Josh on LinkedIn.</a></p>
 		</section>
 		<section class="bv-content-text">
 			<img class="bv-profile-image" src="/assets/images/zach.jpg" alt="Zach H.">

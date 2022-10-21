@@ -25,7 +25,7 @@ $nav-breakpoint: $md + 100;
 	list-style-type: none;
 
 	@media screen and ( max-width: $nav-breakpoint - 1 ) {
-		width: 100%;
+		/*width: 100%;*/
 	}
 
 	&.has-js {

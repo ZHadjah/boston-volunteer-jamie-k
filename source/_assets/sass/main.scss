@@ -201,3 +201,16 @@ $logo-horizontal: 650px;
 		color: inherit;
 	}
 }
+.footer-tax-details {
+	position: absolute;
+    display: block !important;
+    bottom: 2rem;
+    left: 0;
+    right: 0;
+    height: 2rem;
+    padding: 0;
+    color: #a7aabb;
+    text-align: center;
+    font-size: 0.65em;
+    font-style: italic;
+}
