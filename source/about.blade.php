@@ -40,7 +40,7 @@
 			<img class="bv-profile-image" src="/assets/images/josh_suit.jpg" alt="Josh Konoff">
 			<h2>Josh Konoff</h2>
 			<p>Josh Konoff is the entrepreneur and Executive Director of the Boston Volunteers, one of Boston’s fastest growing nonprofits.</p>
-			<p>Fun facts about the Boston Volunteers:</p>
+			<p style="margin-bottom: 0">Fun facts about the Boston Volunteers:</p>
 			<ul>
 				<li>Connecting and creating community since 2008</li>
 				<li>Partners with Amazon and local companies</li>
