@@ -151,7 +151,7 @@
 					in Boston by <a href="https://ashleykolodziej.com/">Ashley Kolodziej</a> &amp; <a href="https://jimreevior.com/">Jim Reevior</a> for <a href="https://newenglandgivecamp.org/">New England GiveCamp</a>
 				</p>
 			</address>
-			<section style="footer-tax-details">
+			<section class="footer-tax-details">
 				<p>Boston Volunteer is a nonprofit, tax-exempt charitable organization (tax ID number 88-3391995) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.</p>
 			</section>
 	</body>

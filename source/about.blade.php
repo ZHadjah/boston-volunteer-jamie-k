@@ -45,6 +45,7 @@
 				<li>Connecting and creating community since 2008</li>
 				<li>Partners with Amazon and local companies</li>
 				<li>Learn more: <a href="https://www.BostonVolunteer.org">www.BostonVolunteer.org</a></li>
+			</ul>
 
 			<p>Josh met his wife, Autumn, while both studied at Boston University. His favorite hobbies are entrepreneurship, adventures in nature, and reading a good book in its original language.  His favorite books are <em>War and Peace</em> and <em>Atomic Habits</em>.</p>
 			<p>Josh also has a background in both machine learning and real estate. Josh still works in real estate, with more than 8 years of experience, where he almost exclusively helps long time relationships and their referrals.</p>
