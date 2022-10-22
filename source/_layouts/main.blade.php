@@ -16,7 +16,7 @@
 
 		<link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 		<style type="text/css">
-			body {
+			html {
 				min-width: 475px;
 			}
 			footer {
