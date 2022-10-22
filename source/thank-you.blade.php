@@ -18,7 +18,7 @@
 
 @section('content')
 <div class="bv-content-container">
-	<p>Boston Volunteer is a nonprofit, tax-exempt charitable organization (tax ID number 88-3391995) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.</p>
+	<p>Boston Volunteers Solutions Inc. is a nonprofit, tax-exempt charitable organization (tax ID number 88-3391995) under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law.</p>
 	<a href="/get-involved" class="bv-button">Find more ways to help</a>
 </div>
 @endsection
