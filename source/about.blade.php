@@ -41,7 +41,7 @@
 			<h2>Josh Konoff</h2>
 			<p>Josh Konoff is the entrepreneur and Executive Director of the Boston Volunteers, one of Boston’s fastest growing nonprofits.</p>
 			<p style="margin-bottom: 0">Fun facts about the Boston Volunteers:</p>
-			<ul>
+			<ul style="margin-top: 0.25em;">
 				<li>Connecting and creating community since 2008</li>
 				<li>Partners with Amazon and local companies</li>
 				<li>Learn more: <a href="https://www.BostonVolunteer.org">www.BostonVolunteer.org</a></li>
