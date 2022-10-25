@@ -72,6 +72,8 @@
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/about">About Us</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-story">Our Story</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-goals">Our Goals</a></li>
+					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-sponsors">Our Goals</a></li>
+					<li class="bv-nav-item"><a class="bv-nav-link" href="/recent-events">Recent Events</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/organize-events">Organize an Event</a></li>
 					<li class="bv-nav-break"></li>
 					<li class="bv-nav-item bv-nav-callout"><a class="bv-nav-link bv-button bv-nav-button" href="https://www.meetup.com/BostonVolunteer/events/">Find an event</a></li>
