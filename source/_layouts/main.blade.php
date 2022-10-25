@@ -72,7 +72,7 @@
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/about">About Us</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-story">Our Story</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-goals">Our Goals</a></li>
-					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-sponsors">Our Goals</a></li>
+					<li class="bv-nav-item"><a class="bv-nav-link" href="/our-sponsors">Our Sponsors</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/recent-events">Recent Events</a></li>
 					<li class="bv-nav-item"><a class="bv-nav-link" href="/organize-events">Organize an Event</a></li>
 					<li class="bv-nav-break"></li>

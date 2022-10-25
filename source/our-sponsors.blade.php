@@ -12,8 +12,8 @@
 @endsection
 
 @section('hero-content')
-	<h1>Sponsorship</h1>
-	<p>We couldn't do it without you</p>
+	<h1>Our Sponsors</h1>
+	<p>Proud to work with great organizations. We couldn't do it without you!</p>
 @endsection
 
 @section('content')
