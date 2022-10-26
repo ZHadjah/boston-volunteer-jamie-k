@@ -1,6 +1,6 @@
 @extends('_layouts.main')
 
-@section('title', 'Organize Events')
+@section('title', 'Events')
 
 @section('hero-media')
 	<video autoplay loop muted playsinline>
@@ -12,15 +12,20 @@
 @endsection
 
 @section('hero-content')
-	<h1>Organize Events</h1>
+	<h1>Events</h1>
 	<p>Passionate about a cause, but need help? We can connect you with a workforce.</p>
 @endsection
 
 @section('content')
 <div class="bv-content-container">
+	<h2>The Big School Supplies for School Kids Event (with Amazon)</h2>
 	<p>The core of Boston Volunteers is people like you: folks of all ages who are passionate, ready to make a difference, and have a big heart. We’re on a mission to make all corners of Boston cleaner, healthier, and safer, and we’re counting on you to lead the charge in telling us what we’re missing. If you are a nonprofit, or know a nonprofit who could use our help, let’s partner by organizing an event together.</p>
 	<p>By organizing an event through Boston Volunteer, you’ll gain access to our near-11,000 person workforce through Meetup. You’ll also have the opportunity to introduce yourself to a whole new network of potential long-term, committed volunteers. Our volunteers are eager to meet you and make Boston better.</p>
 	<p>We’ve successfully partnered with dozens of local nonprofits. If you are a local nonprofit in need of extra hands, or if you know of a nonprofit who we could connect with, let’s talk.</p>
-	<a href="mailto:josh@bostonvolunteer.org" class="bv-button">Email Josh for more information</a>
+	<a href="/get-involved" class="bv-button">Now it's your turn!</a>
+</div>
+<div class="bv-content-container">
+	<p>If you’re like to organize a similar event, and make a meaningful, measurable impact in your community, then email Josh now.</p>
+	<a href="mailto:josh@bostonvolunteer.org" class="bv-button">Email Josh now</a>
 </div>
 @endsection

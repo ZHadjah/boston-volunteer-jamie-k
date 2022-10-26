@@ -84,7 +84,7 @@
 			<aside class="bv-callout">
 				<h3>What's next?</h3>
 				<p>We're ready to get to work making Boston even better. Learn what we're dreaming about, and how with your help, we plan to make those dreams a reality.</p>
-				<a href="/our-goals" class="bv-button">Our Goals</a>
+				<a href="/our-mission" class="bv-button">Our Mission</a>
 			</aside>
 		</div>
 	</section>

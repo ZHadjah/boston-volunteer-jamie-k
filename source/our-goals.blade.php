@@ -1,6 +1,6 @@
 @extends('_layouts.main')
 
-@section('title', 'Our Goals')
+@section('title', 'Our Mission')
 
 @section('hero-media')
 		<video autoplay loop muted playsinline>
@@ -12,7 +12,7 @@
 @endsection
 
 @section('hero-content')
-		<h1>Our Goals</h1>
+		<h1>Our Mission</h1>
 		<p>We believe that to grow, we must always ask questions - and strive for a better Boston. Here are some of the questions we're asking now.</p>
 @endsection
 
