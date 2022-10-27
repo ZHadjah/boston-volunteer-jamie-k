@@ -60,4 +60,9 @@ p {
 
 .bv-center {
 	text-align: center;
+	.bv-button-row a {
+		width: 25%;
+		display: inline-block;
+		margin: 0 1em;
+	}
 }
