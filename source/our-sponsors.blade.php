@@ -18,7 +18,9 @@
 
 @section('content')
 <div class="bv-content-container">
-	<p>Please see a list of sponsors below:</p>
-	<a href="/get-involved" class="bv-button">Sponsor an event</a>
+	<p>We recently partnered with Amazon to stuff and deliver 1,183 backpacks with school supplies for local school kids.</p>
+	<p>We've also partnered with dozens of local companies and nonprofits.</p>
+	<p>Want to learn how you can make a local impact too? Become a sponsor and help us build a better Boston.</p>
+	<a href="mailto:josh@bostonvolunteer.org" class="bv-button">Learn more</a>
 </div>
 @endsection
