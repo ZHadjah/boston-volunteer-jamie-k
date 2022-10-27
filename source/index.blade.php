@@ -17,11 +17,8 @@
 
 @section('content')
 	<div class="bv-center">
-		<h2>Imagine the impact you could have here.</h2>
-		<p>From many ideas, ONE vision.</p>
-		<p>From many events, ONE adventure.</p>
-		<p>From many people, ONE community.</p>
-		<p>From many priorities, ONE purpose.</p>
+		<h2>Imagine the impact you could have here. From many ideas, ONE vision. From many events, ONE adventure. From many people, ONE community. From many priorities, ONE purpose.</p>
+		<a href="https://www.paypal.com/donate/?hosted_button_id=SDBG7NMRENJ7U" class="bv-button">Donate</a> <a href="/get-involved/" class="bv-button">Get involved</a>
 	</div>
 	<section class="bv-impact">
 		<aside class="bv-impact-large">
